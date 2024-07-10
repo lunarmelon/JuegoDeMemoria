@@ -1,0 +1,15 @@
+.table-style {
+  @apply flex-col mt-5 w-64 shadow-lg;
+}
+
+.top-part {
+  @apply text-white text-base font-medium p-2 bg-blue-500 rounded-t-md;
+}
+
+.bottom-part {
+  @apply text-base mt-2 rounded-b-md mr-5 ml-5 mt-5 mb-5;
+}
+
+.header-button {
+  @apply px-3 text-white text-lg bg-blue-500 pb-2 pt-2 pl-2 pr-2 font-medium mr-3 mt-1 rounded flex-1 text-center w-32;
+}

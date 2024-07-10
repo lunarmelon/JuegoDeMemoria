@@ -16,7 +16,10 @@ const Header = () => {
         <nav className="mb-3 mt-3 ml-3 mr-3">
           <ul className="flex">
             <li className="header-button">
-              <Link to={ROUTES.HOME}>Memoria</Link>
+              <Link to={ROUTES.HOME}>¿Qué es crianza positiva?</Link>
+            </li>
+            <li className="header-button">
+              <Link to={ROUTES.GAME}>Actividad de recreación</Link>
             </li>
             <li className="header-button">
               <Link to={ROUTES.INFO}>Más información</Link>
