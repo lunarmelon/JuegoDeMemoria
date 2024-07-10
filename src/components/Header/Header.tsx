@@ -18,6 +18,9 @@ const Header = () => {
             <li className="header-button">
               <Link to={ROUTES.HOME}>Memoria</Link>
             </li>
+            <li className="header-button">
+              <Link to={ROUTES.INFO}>Más información</Link>
+            </li>
           </ul>
         </nav>
       </div>

@@ -128,7 +128,7 @@ const Game = () => {
       setModalData({
         title: "¡Felicidades!",
         message:
-          "Haz encontrado todos los pares. Si deseas jugar de nuevo, recarga el sitio. \nSi quieres consultar más información, consulta la pestaña de 'Mas información'.",
+          "Haz encontrado todos los pares. Si deseas jugar de nuevo, recarga el sitio. \nSi quieres consultar más información, consulta las ligas al pie de este sitio o consulta la pestaña de 'Más información'.",
         imageUrl: finalPopup,
       });
     }
@@ -223,9 +223,9 @@ const Game = () => {
             Si deseas consultar más información, visita el sitio de la{" "}
             <a
               className="text-blue-500 hover:underline"
-              href="https://sites.google.com/u/1/d/1sz9wUC9aYXugKyD0Smhe1LsYRT2Rqqkj/p/1ga7S8WaYCZyvgUm5iA2EtjDTCDwGVV6n/preview?authuser=1"
+              href="https://sites.google.com/u/1/d/1sz9wUC9aYXugKyD0Smhe1LsYRT2Rqqkj/p/1BJxURzFmi3xHEDnpNuiIs_3iY7cHd2jp/preview?authuser=1"
             >
-              Comisaría Preventiva Municipal de El Salto
+              Comisaría Preventiva Municipal de el Salto
             </a>
             .
           </h1>
